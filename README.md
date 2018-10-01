@@ -3,6 +3,7 @@ An interactive representation of the Sliding Tiles Puzzle
 
 ## Getting Started
 Run `python3 tile-slider.py`
+
 Specify a width for the dimensions of the puzzle, 2-5 recommended 
 
 ## Solving the Puzzle
