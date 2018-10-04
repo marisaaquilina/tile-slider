@@ -1,5 +1,5 @@
 # Tile Slider
-An interactive representation of the Sliding Tiles Puzzle
+An interactive representation of the Sliding Tiles Puzzle using A* to find the next best move
 
 ## Getting Started
 Run `python3 tile-slider.py`
