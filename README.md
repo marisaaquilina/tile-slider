@@ -4,7 +4,7 @@ An interactive representation of the Sliding Tiles Puzzle using A* to find the n
 ## Getting Started
 Run `python3 tile-slider.py`
 
-Specify a width for the dimensions of the puzzle (2-5 recommended)
+Specify a width for the dimensions of the puzzle (2-4 recommended)
 
 ## Solving the Puzzle
 Move a tile left into the open position: Type H, press Enter
